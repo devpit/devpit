@@ -3,9 +3,12 @@
 Me chamo PIT e atuo como Desenvolvedor Web e Mobile, além de Hacker Ético. Estou constantemente aprimorando minhas habilidades para criar projetos web funcionais e seguros, enquanto busco aprendizado contínuo.
 Estou ansioso por desafios que impulsionem meu crescimento profissional, em busca de soluções inovadoras e impactantes.
 
-## Tecnologias
+## Tecnologias que ultilizo no dia a dia
 
-- Linguagens de Programação: Python | PHP | Java | Kotlin | JavaScript | SQL 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 ## Contato
 
