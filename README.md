@@ -1,16 +1,14 @@
-### Hi there 👋
+# Olá 👋🫂
 
-<!--
-**devpit/devpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo PIT e atuo como Desenvolvedor Web e Mobile, além de Hacker Ético. Estou constantemente aprimorando minhas habilidades para criar projetos web funcionais e seguros, enquanto busco aprendizado contínuo.
+Estou ansioso por desafios que impulsionem meu crescimento profissional, em busca de soluções inovadoras e impactantes.
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Linguagens de Programação: Python | PHP | Java | Kotlin | JavaScript | SQL 
+
+## Contato
+
+- Email: [contato.devpit@gmail.com]
+
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
