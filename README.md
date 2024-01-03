@@ -1,6 +1,6 @@
 # Olá 👋🫂
 
-Me chamo PIT e atuo como Desenvolvedor Web e Mobile, além de Hacker Ético. Estou constantemente aprimorando minhas habilidades para criar projetos web funcionais e seguros, enquanto busco aprendizado contínuo.
+Me chamo PIT e atuo como Desenvolvedor Web e Mobile, além de Pentester. Estou constantemente aprimorando minhas habilidades para criar projetos web funcionais e seguros, enquanto busco aprendizado contínuo.
 Estou ansioso por desafios que impulsionem meu crescimento profissional, em busca de soluções inovadoras e impactantes.
 
 ## Tecnologias que ultilizo no dia a dia
@@ -12,6 +12,8 @@ Estou ansioso por desafios que impulsionem meu crescimento profissional, em busc
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
 ![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![KALI](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![POWER](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)
 
