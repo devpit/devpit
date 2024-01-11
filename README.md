@@ -20,6 +20,6 @@ Estou ansioso por desafios que impulsionem meu crescimento profissional, em busc
 
 ## Contato
 
-- Email: contato.devpit@gmail.com
+Email: devpit@proton.me
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a colaborações e novas oportunidades!
