@@ -1,7 +1,6 @@
 # Olá 👋🫂
 
-Me chamo PIT e atuo como Desenvolvedor Web e Mobile, além de Pentester. Estou constantemente aprimorando minhas habilidades para criar projetos web funcionais e seguros, enquanto busco aprendizado contínuo.
-Estou ansioso por desafios que impulsionem meu crescimento profissional, em busca de soluções inovadoras e impactantes.
+Me chamo PIT e atuo como Desenvolvedor Web e Mobile, além de Pentester. Estou constantemente aprimorando minhas habilidades para criar projetos web funcionais e seguros, em busca de soluções inovadoras e impactantes.
 
 ## Tecnologias que ultilizo no dia a dia
 
